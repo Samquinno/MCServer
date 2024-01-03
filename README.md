@@ -7,4 +7,4 @@ type this:
 ``
 java -jar server.jar
 ``
-in your shell/terminal
+in your shell/terminal to start your Server
